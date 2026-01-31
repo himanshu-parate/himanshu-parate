@@ -35,3 +35,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu-parate&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-parate&theme=radical" height="165"/>
 </p>
+---
+
+## 🟡 Pac-Man Contribution Graph 👾
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/himanshu-parate/himanshu-parate/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/himanshu-parate/himanshu-parate/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/himanshu-parate/himanshu-parate/output/pacman-contribution-graph.svg">
+</picture>
+
