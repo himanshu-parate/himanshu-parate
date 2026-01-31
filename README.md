@@ -37,7 +37,7 @@
 </p>
 ---
 
-## 🟡 Pac-Man Contribution Graph 👾
+## 🟡 Contribution Graph 👾
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
